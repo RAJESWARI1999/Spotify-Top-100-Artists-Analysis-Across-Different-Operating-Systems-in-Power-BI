@@ -1,0 +1,2 @@
+# Spotify-Top-100-Artists-Analysis-Across-Different-Operating-Systems-in-Power-BI
+This Power BI dashboard provides a comprehensive analysis of the Top 100 Spotify artists across various operating systems: Mac, Windows, Android, and Web Player. The report includes detailed metrics related to artist rankings, user preferences, and how listeners interact with music across different platforms and operating systems.
